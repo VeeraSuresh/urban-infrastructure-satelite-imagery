@@ -6,6 +6,10 @@ This project presents a machine learning framework for extracting urban infrastr
 
 The solution combines image preprocessing, statistical analysis, feature extraction, dimensionality reduction, and classification to provide an interpretable and scalable approach for urban infrastructure mapping.
 
+![urban-infrastructure-satelite-imagery](outputs/qual_A3_0116.png)
+![urban-infrastructure-satelite-imagery](outputs/qual_A3_0198.png)
+
+
 ## Problem Statement
 
 Rapid urbanisation has increased the need for accurate and up-to-date information about urban infrastructure. Traditional mapping methods based on manual surveys are expensive, time-consuming, and difficult to scale.
